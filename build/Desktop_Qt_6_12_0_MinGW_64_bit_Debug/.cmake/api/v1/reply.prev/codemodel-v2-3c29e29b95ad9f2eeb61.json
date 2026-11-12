@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AbarroteraDonJose",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AbarroteraDonJose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AbarroteraDonJose-Debug-2953544cc593af57cc31.json",
+					"name" : "AbarroteraDonJose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AbarroteraDonJose_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AbarroteraDonJose_autogen-Debug-ff683b791f0b9bd33fcc.json",
+					"name" : "AbarroteraDonJose_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AbarroteraDonJose_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AbarroteraDonJose_autogen_timestamp_deps-Debug-9ab298b75aac1cdeab4d.json",
+					"name" : "AbarroteraDonJose_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/luis_/Documents/Proyecto_Abarrotes/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug",
+		"source" : "C:/Users/luis_/Documents/Proyecto_Abarrotes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

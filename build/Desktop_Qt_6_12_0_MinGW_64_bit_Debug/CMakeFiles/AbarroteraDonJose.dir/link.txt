@@ -1,0 +1,3 @@
+C:\QtDesigner\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\AbarroteraDonJose.dir/objects.a
+C:\QtDesigner\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\AbarroteraDonJose.dir/objects.a @CMakeFiles\AbarroteraDonJose.dir\objects1.rsp
+C:\QtDesigner\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AbarroteraDonJose.dir/objects.a -Wl,--no-whole-archive -o AbarroteraDonJose.exe -Wl,--out-implib,libAbarroteraDonJose.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AbarroteraDonJose.dir\linkLibs.rsp

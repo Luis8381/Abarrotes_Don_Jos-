@@ -1,0 +1,2 @@
+CMakeFiles/AbarroteraDonJose.dir/AbarroteraDonJose_autogen/mocs_compilation.cpp.obj: \
+ C:\Users\luis_\Documents\Proyecto_Abarrotes\build\Desktop_Qt_6_12_0_MinGW_64_bit_Release\AbarroteraDonJose_autogen\mocs_compilation.cpp
